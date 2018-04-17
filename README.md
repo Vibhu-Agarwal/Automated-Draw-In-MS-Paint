@@ -1,8 +1,3 @@
----
-
-
----
-
 <h2 id="automated-draw-in-ms-paint"><a href="https://github.com/Vibhu-Agarwal/Automated-Draw-In-MS-Paint/">Automated Draw In MS Paint</a></h2>
 <p>It asks for names. Using GUI Automation, opens MS-paint in Windows 10 and draws the names using brushes or pencils.</p>
 <p>Drew this by executing the script, placing the mouse pointer at different initial positions.</p>
